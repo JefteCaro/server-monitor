@@ -21,6 +21,8 @@ sites:
     url: https://www.egideus.com
   - name: Egide US API
     url: https://api.egideus.com
+  - name: Egide US App
+    url: https://app.egideus.com
   
 
 status-website:
