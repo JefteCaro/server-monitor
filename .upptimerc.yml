@@ -3,14 +3,26 @@ owner: JefteCaro # Your GitHub organization or username, where this repository l
 repo: server-monitor # The name of this repository
 
 sites:
-  - name: Helite US
+  - name: Helite Site
     url: https://www.heliteus.com
+  - name: Helite App
+    url: https://app.heliteus.com
+  - name: Helite IHSA
+    url: https://sponsorship.heliteus.com
+  - name: Helite USHJA
+    url: https://ushja.heliteus.com
+  - name: Helite Retailer Registration
+    url: https://retailer.heliteus.com
+  - name: Helite Ambassador Registration
+    url: https://ambassador.heliteus.com
+  - name: Helite Shop
+    url: https://shop.heliteus.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: jeftecaro.github.io
+  baseUrl: /server-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
