@@ -26,10 +26,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://JefteCaro.github.io/server-monitor)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Jecar](https://demo.upptime.js.org)
+- Code: [MIT](./LICENSE) © [Jecar](https://github.com/JefteCaro/server-monitor)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
