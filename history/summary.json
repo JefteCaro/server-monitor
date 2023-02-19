@@ -4,17 +4,17 @@
     "url": "https://www.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1631,
-    "timeDay": 1413,
-    "timeWeek": 1631,
-    "timeMonth": 1631,
-    "timeYear": 1631,
+    "time": 1623,
+    "timeDay": 1463,
+    "timeWeek": 1624,
+    "timeMonth": 1623,
+    "timeYear": 1623,
     "dailyMinutesDown": {}
   },
   {
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 5808,
     "timeDay": 4392,
-    "timeWeek": 5808,
+    "timeWeek": 7475,
     "timeMonth": 5808,
     "timeYear": 5808,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 3555,
     "timeDay": 2319,
-    "timeWeek": 3555,
+    "timeWeek": 4623,
     "timeMonth": 3555,
     "timeYear": 3555,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 2796,
     "timeDay": 2303,
-    "timeWeek": 2796,
+    "timeWeek": 3656,
     "timeMonth": 2796,
     "timeYear": 2796,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 2525,
     "timeDay": 2354,
-    "timeWeek": 2525,
+    "timeWeek": 3256,
     "timeMonth": 2525,
     "timeYear": 2525,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 2088,
     "timeDay": 2561,
-    "timeWeek": 2088,
+    "timeWeek": 2645,
     "timeMonth": 2088,
     "timeYear": 2088,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 2654,
     "timeDay": 2126,
-    "timeWeek": 2654,
+    "timeWeek": 2819,
     "timeMonth": 2654,
     "timeYear": 2654,
     "dailyMinutesDown": {}
@@ -138,7 +138,7 @@
     "uptimeYear": "100.00%",
     "time": 1091,
     "timeDay": 659,
-    "timeWeek": 1091,
+    "timeWeek": 1204,
     "timeMonth": 1091,
     "timeYear": 1091,
     "dailyMinutesDown": {}
@@ -156,7 +156,7 @@
     "uptimeYear": "100.00%",
     "time": 460,
     "timeDay": 334,
-    "timeWeek": 460,
+    "timeWeek": 468,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {}
