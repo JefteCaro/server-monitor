@@ -4,17 +4,17 @@
     "url": "https://www.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1578,
-    "timeDay": 1559,
-    "timeWeek": 1620,
-    "timeMonth": 1542,
-    "timeYear": 1578,
+    "time": 1577,
+    "timeDay": 1545,
+    "timeWeek": 1619,
+    "timeMonth": 1541,
+    "timeYear": 1577,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 5316,
     "timeDay": 497,
     "timeWeek": 2460,
-    "timeMonth": 4682,
+    "timeMonth": 4587,
     "timeYear": 5316,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 2444,
     "timeDay": 569,
     "timeWeek": 1245,
-    "timeMonth": 2274,
+    "timeMonth": 2324,
     "timeYear": 2444,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 2042,
     "timeDay": 383,
     "timeWeek": 1215,
-    "timeMonth": 1961,
+    "timeMonth": 1998,
     "timeYear": 2042,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 2166,
     "timeDay": 407,
     "timeWeek": 1458,
-    "timeMonth": 2142,
+    "timeMonth": 2188,
     "timeYear": 2166,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 2305,
     "timeDay": 393,
     "timeWeek": 1457,
-    "timeMonth": 2434,
+    "timeMonth": 2484,
     "timeYear": 2305,
     "dailyMinutesDown": {}
   },
@@ -121,7 +121,7 @@
     "time": 3930,
     "timeDay": 2256,
     "timeWeek": 2692,
-    "timeMonth": 4500,
+    "timeMonth": 4516,
     "timeYear": 3930,
     "dailyMinutesDown": {}
   },
@@ -139,7 +139,7 @@
     "time": 2713,
     "timeDay": 634,
     "timeWeek": 1981,
-    "timeMonth": 3323,
+    "timeMonth": 3383,
     "timeYear": 2713,
     "dailyMinutesDown": {}
   },
@@ -157,7 +157,7 @@
     "time": 1211,
     "timeDay": 296,
     "timeWeek": 425,
-    "timeMonth": 1462,
+    "timeMonth": 1494,
     "timeYear": 1211,
     "dailyMinutesDown": {}
   }
