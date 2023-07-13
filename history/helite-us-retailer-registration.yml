@@ -1,7 +1,7 @@
 url: https://retailer.heliteus.com
-status: down
-code: 502
-responseTime: 195
-lastUpdated: 2023-07-13T10:17:56.637Z
+status: up
+code: 200
+responseTime: 2550
+lastUpdated: 2023-07-13T10:30:55.145Z
 startTime: Sun Feb 12 2023 08:12:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
