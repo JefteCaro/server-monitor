@@ -148,17 +148,17 @@
     "url": "https://api.egideus.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.egideus.com.ico",
     "slug": "egide-us-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 269,
-    "timeWeek": 350,
-    "timeMonth": 356,
-    "timeYear": 480,
+    "time": 479,
+    "timeDay": 254,
+    "timeWeek": 341,
+    "timeMonth": 353,
+    "timeYear": 479,
     "dailyMinutesDown": {}
   }
 ]
