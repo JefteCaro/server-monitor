@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1655,
     "timeDay": 444,
-    "timeWeek": 930,
+    "timeWeek": 953,
     "timeMonth": 806,
     "timeYear": 1655,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://retailer.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/retailer.heliteus.com.ico",
     "slug": "helite-us-retailer-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
