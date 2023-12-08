@@ -22,7 +22,7 @@
     "url": "https://app.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -139,7 +139,7 @@
     "time": 1299,
     "timeDay": 841,
     "timeWeek": 970,
-    "timeMonth": 1178,
+    "timeMonth": 967,
     "timeYear": 1299,
     "dailyMinutesDown": {}
   },
