@@ -14,7 +14,7 @@
     "timeDay": 3828,
     "timeWeek": 3998,
     "timeMonth": 3799,
-    "timeYear": 2051,
+    "timeYear": 2053,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://app.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
