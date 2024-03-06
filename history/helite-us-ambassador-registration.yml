@@ -1,7 +1,7 @@
 url: https://ambassador.heliteus.com
-status: down
-code: 521
-responseTime: 80
-lastUpdated: 2024-03-06T23:35:02.735Z
+status: up
+code: 200
+responseTime: 23335
+lastUpdated: 2024-03-06T23:41:31.598Z
 startTime: 2023-02-12T08:12:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
