@@ -4,17 +4,17 @@
     "url": "https://www.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2490,
+    "time": 2493,
     "timeDay": 3185,
     "timeWeek": 4128,
     "timeMonth": 4476,
-    "timeYear": 2563,
+    "timeYear": 2586,
     "dailyMinutesDown": {}
   },
   {
@@ -140,7 +140,7 @@
     "timeDay": 819,
     "timeWeek": 866,
     "timeMonth": 1096,
-    "timeYear": 1122,
+    "timeYear": 1085,
     "dailyMinutesDown": {}
   },
   {
