@@ -14,7 +14,7 @@
     "timeDay": 3386,
     "timeWeek": 4190,
     "timeMonth": 4467,
-    "timeYear": 3147,
+    "timeYear": 3228,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://ushja.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ushja.heliteus.com.ico",
     "slug": "helite-us-ushja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,7 +76,7 @@
     "url": "https://retailer.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/retailer.heliteus.com.ico",
     "slug": "helite-us-retailer-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
