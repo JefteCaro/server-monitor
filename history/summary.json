@@ -4,17 +4,17 @@
     "url": "https://www.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.heliteus.com.ico",
     "slug": "helite-us-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3281,
+    "time": 3283,
     "timeDay": 4505,
     "timeWeek": 3972,
     "timeMonth": 4558,
-    "timeYear": 3795,
+    "timeYear": 3858,
     "dailyMinutesDown": {}
   },
   {
@@ -22,7 +22,7 @@
     "url": "https://app.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -40,7 +40,7 @@
     "url": "https://sponsorship.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/sponsorship.heliteus.com.ico",
     "slug": "helite-us-ihsa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -50,7 +50,7 @@
     "timeDay": 533,
     "timeWeek": 490,
     "timeMonth": 427,
-    "timeYear": 616,
+    "timeYear": 617,
     "dailyMinutesDown": {}
   },
   {
@@ -58,7 +58,7 @@
     "url": "https://ushja.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ushja.heliteus.com.ico",
     "slug": "helite-us-ushja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -76,7 +76,7 @@
     "url": "https://retailer.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/retailer.heliteus.com.ico",
     "slug": "helite-us-retailer-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -104,7 +104,7 @@
     "timeDay": 610,
     "timeWeek": 528,
     "timeMonth": 1171,
-    "timeYear": 719,
+    "timeYear": 720,
     "dailyMinutesDown": {}
   },
   {
@@ -122,7 +122,7 @@
     "timeDay": 344,
     "timeWeek": 358,
     "timeMonth": 342,
-    "timeYear": 1166,
+    "timeYear": 1164,
     "dailyMinutesDown": {}
   },
   {
