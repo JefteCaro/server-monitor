@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 3416,
     "timeDay": 4991,
-    "timeWeek": 6558,
+    "timeWeek": 6527,
     "timeMonth": 4924,
     "timeYear": 3925,
     "dailyMinutesDown": {}
@@ -22,17 +22,17 @@
     "url": "https://app.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.heliteus.com.ico",
     "slug": "helite-us-app",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1549,
-    "timeDay": 546,
-    "timeWeek": 3757,
-    "timeMonth": 1798,
-    "timeYear": 998,
+    "time": 1605,
+    "timeDay": 14618,
+    "timeWeek": 5771,
+    "timeMonth": 2438,
+    "timeYear": 1064,
     "dailyMinutesDown": {}
   },
   {
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 959,
     "timeDay": 13321,
-    "timeWeek": 6396,
+    "timeWeek": 4356,
     "timeMonth": 2195,
     "timeYear": 749,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 877,
     "timeDay": 7817,
-    "timeWeek": 4851,
+    "timeWeek": 3044,
     "timeMonth": 1756,
     "timeYear": 700,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 873,
     "timeDay": 993,
-    "timeWeek": 4772,
+    "timeWeek": 4358,
     "timeMonth": 1797,
     "timeYear": 697,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 959,
     "timeDay": 8880,
-    "timeWeek": 4014,
+    "timeWeek": 3639,
     "timeMonth": 2236,
     "timeYear": 789,
     "dailyMinutesDown": {}
