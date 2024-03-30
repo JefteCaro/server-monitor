@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3451,
-    "timeDay": 5944,
-    "timeWeek": 6837,
+    "timeDay": 6386,
+    "timeWeek": 6035,
     "timeMonth": 5105,
     "timeYear": 3955,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1610,
     "timeDay": 1458,
-    "timeWeek": 5422,
+    "timeWeek": 4213,
     "timeMonth": 2442,
     "timeYear": 1075,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1041,
     "timeDay": 423,
-    "timeWeek": 6874,
+    "timeWeek": 6374,
     "timeMonth": 2997,
     "timeYear": 847,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://ushja.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/ushja.heliteus.com.ico",
     "slug": "helite-us-ushja",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 958,
     "timeDay": 469,
-    "timeWeek": 5669,
+    "timeWeek": 5507,
     "timeMonth": 2560,
     "timeYear": 795,
     "dailyMinutesDown": {}
@@ -76,7 +76,7 @@
     "url": "https://retailer.heliteus.com",
     "icon": "https://icons.duckduckgo.com/ip3/retailer.heliteus.com.ico",
     "slug": "helite-us-retailer-registration",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 993,
     "timeDay": 467,
-    "timeWeek": 8957,
+    "timeWeek": 8378,
     "timeMonth": 3124,
     "timeYear": 837,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 998,
     "timeDay": 457,
-    "timeWeek": 5119,
+    "timeWeek": 4964,
     "timeMonth": 2655,
     "timeYear": 837,
     "dailyMinutesDown": {}
